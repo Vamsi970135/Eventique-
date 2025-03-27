@@ -1,0 +1,87 @@
+Detailed Prompt to Generate Eventique – App & Website
+
+"Generate a fully functional and responsive event service marketplace called Eventique, designed for both customers and service providers. The platform should be built with a modern, scalable architecture, implementing authentication, business listings, bookings, and secure interactions. The system should be dynamic, adjusting seamlessly for both mobile and desktop users.
+
+1. Homepage & User Authentication
+
+The homepage should have a clean, professional UI with a logo and two buttons:
+
+User Registration – For customers looking for event services.
+
+Event Registration – For service providers listing their businesses.
+
+
+Secure Signup/Login system using Firebase Authentication (email/password, Google sign-in).
+
+
+2. User Dashboard (For Customers)
+
+Users can browse service providers categorized into Photography, DJ, Lighting, Venues, Catering, Decoration, Priests, etc.
+
+Filter & Search System: Users can filter businesses by ratings, pricing, location, and availability.
+
+Business Profiles: Users can view service provider details, portfolios, pricing, and customer reviews.
+
+Booking System: Users can send service requests securely via the platform.
+
+In-App Messaging: Customers and service providers can communicate without direct contact details.
+
+Review & Rating System: Users can provide feedback on completed services.
+
+
+3. Organizer Dashboard (For Service Providers)
+
+Business registration with profile creation, portfolio uploads, pricing, and service categories.
+
+Manage bookings: Accept, reject, or reschedule customer requests.
+
+Secure customer interactions via the built-in messaging system.
+
+Business Analytics Dashboard to track inquiries, bookings, and customer engagement.
+
+
+4. Core Functionalities
+
+Dynamic, Responsive UI – Built using HTML, CSS, JavaScript, and Tailwind CSS/Bootstrap.
+
+Fast, Scalable Backend – Powered by Node.js & Express.js.
+
+Cloud Database – Firebase Firestore for storing user, business, and booking data.
+
+Google Maps API Integration – Allows users to find local service providers.
+
+AI-Based Service Recommendations – (Future enhancement) Personalized suggestions based on user behavior.
+
+Secure Payment Gateway (Future Upgrade) – Stripe/Razorpay for seamless transactions.
+
+Hosted on Firebase Hosting with Firebase Functions for backend automation.
+
+
+5. Deployment & Scalability
+
+The website and app should be deployed on Firebase Hosting for fast, scalable performance.
+
+The backend logic should use Firebase Functions for smooth, event-driven operations.
+
+The architecture should support future scalability with Google Cloud Services.
+
+
+Final Output Requirements:
+
+A fully functional website & app, implementing all the above features.
+
+Modern UI/UX design, responsive for both mobile and desktop users.
+
+Optimized backend for seamless communication, booking, and data management.
+
+Scalable and secure infrastructure using Google Cloud and Firebase.
+
+Code structured professionally, following best full-stack development practices.
+
+
+"Ensure the platform is designed to be intuitive, engaging, and efficient for both customers and service providers, revolutionizing the event service industry with a seamless digital experience."
+
+
+---
+
+This is a highly detailed prompt that can generate both the website and app with all requested functionalities. Let me know if you need any modifications!
